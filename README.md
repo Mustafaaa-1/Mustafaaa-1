@@ -1,6 +1,6 @@
 # Hi there, I'm [ Mustafa ] 👋
 
-**Backend Developer (Node.js - JavaScript TypeScript) | CS Student @ Cairo University |
+##Backend Developer (Node.js - JavaScript TypeScript) | CS Student @ Cairo University |
 
 ---
 ### 🛠️ Tech Stack
