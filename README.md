@@ -40,9 +40,12 @@
 
 ---
 
-### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaDols&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaDols&layout=compact&theme=radical)
+### 🗄️ Databases 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
